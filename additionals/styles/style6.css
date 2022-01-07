@@ -1,0 +1,367 @@
+
+
+
+@media only screen and (min-width: 950px) and (max-width: 1449px), only screen and (min-width: 1450px){
+    .heading{
+        max-width: 950px;
+    }
+    .heading-1{
+        font-size: 4rem;
+    }
+    .heading-3{
+        font-size: 19.2px;
+        max-width: none;
+    }
+    .submit-button{
+        font-size: 30px;
+        min-height: 70px;}
+}
+
+
+
+@media only screen and (min-width: 1450px){
+    .heading-1 {
+        max-width: 800px;
+        /* margin: ; */
+    }
+    .heading-2 {
+        max-width: 800px;
+    }
+}
+
+
+
+@media only screen and (min-width: 950px) and (max-width:1449px) {
+    .language{
+        margin-right: 1.75rem;
+    }
+    .netflix-logo{
+        width: 134px;
+        height: 36px; 
+    }
+    .heading-1{
+        font-size: 3.125rem;
+        margin: 0px auto;
+        /* margin: 0px 10%; */
+    }
+    .heading-3{
+        font-size: 19.2px;
+        /* margin: 16px 155px; */
+        max-width: none;
+    }
+    .email-2{
+        min-width: 450px;
+        height: 54px!important;
+    }
+    .submit-button{
+        font-size: 1.625rem;
+        min-height: 60px;
+    }
+    .sect-1{
+        margin: 101px -8px 10px -8px;
+    }
+    .sect-1-hindi{
+        margin: -4px -8px 10px -8px;
+    }
+}
+
+
+
+@media only screen and (min-width: 740px) and (max-width: 950px){
+    .language{
+        margin-right: 1.5rem;
+    }
+    .netflix-logo{
+        width: 108px;
+        height: 32px; 
+    }  
+    .heading{
+        max-width: 640px;
+    }
+    .heading-3{
+        font-size: 23px;
+        max-width: none;
+    }    
+    .heading-1 {
+        font-size: 3.125rem;
+    }
+    .email-2{
+        height: 54px;
+    }
+    .heading-3{
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+    .sect-1{
+        margin: -75px -8px 10px -8px;
+    }
+    .sect-1-hindi{
+       margin: -108px -8px 10px -8px;
+    }
+
+    .demo1, .sect-3 .demo1, .sect-2 .demo1, .sect-4 .demo1{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .card-heading1, .sect-3 .card-heading1 ,.sect-2 .card-heading1 , .sect-4 .card-heading1 {
+        font-size: 40px;
+    }
+    .card-heading2, .sect-3 .card-heading2 ,.sect-2 .card-heading2, .sect-4 .card-heading2{
+        font-size: 20px;
+    }
+    .main-card-heading, .sect-3 .main-card-heading ,.sect-2 .main-card-heading, .sect-4 .main-card-heading{
+        margin: 0;
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    } 
+    .content2, .sect-3 .content2, .sect-2 .content2, .sect-4 .content2{
+        width: 100%;
+        max-width: 600px;
+        margin-top: 1rem;
+    }
+    .sect-2 .img-cont{
+        margin: -8% 0 0 0 ;
+    }
+    .main-list{
+        width: 90%;
+        margin: 1.5rem auto;
+    }
+}
+
+
+
+@media only screen and (min-width: 550px) and (max-width: 740px){
+    .language{
+        margin-right: 1.25rem;
+    }
+    .netflix-logo{
+        width: 108px;
+        height: 32px; 
+    }
+    .heading{
+        max-width: 640px;
+    }
+    .heading-3{
+        font-size: 18px;
+        padding-left: 25%;
+        padding-right: 25%;
+    }
+    .heading-1 {
+        font-size: 3.125rem;
+    }
+    .email-2{
+        height: 42px;
+    }
+    .sect-1{
+        margin: -41px -8px 10px -8px;
+    }
+    .demo1, .sect-3 .demo1, .sect-2 .demo1, .sect-4 .demo1{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .card-heading1, .sect-3 .card-heading1 ,.sect-2 .card-heading1 , .sect-4 .card-heading1 {
+        font-size: 40px;
+    }
+    .card-heading2, .sect-3 .card-heading2 ,.sect-2 .card-heading2, .sect-4 .card-heading2{
+        font-size: 20px;
+    }
+    .main-card-heading, .sect-3 .main-card-heading ,.sect-2 .main-card-heading, .sect-4 .main-card-heading{
+        margin: 0;
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    } 
+    .content2, .sect-3 .content2, .sect-2 .content2, .sect-4 .content2{
+        width: 100%;
+        max-width: 600px;
+        margin-top: 1rem;
+    }
+    .sect-2 .img-cont{
+        margin: -8% 0 0 0 ;
+    }
+    .main-list{
+        width: 90%;
+        margin: 1.5rem auto;
+    }  
+}
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 550px){
+    .navbar{
+        margin: 0px 24.15px;
+    }
+    .language{
+        margin-right: 0.75rem;
+        height: 27px;
+    }
+    .netflix-logo{
+        width: 90px;
+        height: 24px; 
+    }
+    .sign-button{
+        padding: 4px 8px;
+        font-size: 14.4px;
+
+        /* text-decoration: none;
+        background-color: red;
+        color: white;
+        font-weight: 400;
+        border-radius: 3px;
+        line-height: normal;
+        margin: 0px 0px 20px 0px; */
+    }
+    .sign-button-hindi{
+        padding: 4px 0px;
+    }
+    .heading{
+        padding: 30px 0px;
+        margin: 50px auto;
+    }
+    .heading-1 {
+        font-size: 28px;
+    }
+    .heading-2 {
+        font-size: 18px;
+    }
+    .heading-3{
+        padding: 0px 2%;
+        /* padding: 0px 0px 20px 47.5px; */
+    }
+    .email-1{
+        padding: 5px;
+    }
+    .email-2{
+        height: 42px;
+        min-width: 400px;
+    }
+    .sect-1, .sect-2, .sect-3, .sect-4{
+        /* margin: -10px -26px 10px -8px; */
+        padding: 50px 5%;
+    }
+    .sect-1{
+        /* margin: 277px -8px 10px -8px; */
+        margin : -40px -8px 10px -8px; ;
+        border-top: 9px solid rgb(45 39 39);
+    }
+    .demo1, .sect-3 .demo1, .sect-2 .demo1, .sect-4 .demo1{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .card-heading1, .sect-3 .card-heading1 ,.sect-2 .card-heading1 , .sect-4 .card-heading1 {
+        font-size: 26px;
+    }
+    .card-heading2, .sect-3 .card-heading2 ,.sect-2 .card-heading2, .sect-4 .card-heading2{
+        font-size: 18px;
+    }
+    .main-card-heading, .sect-3 .main-card-heading ,.sect-2 .main-card-heading, .sect-4 .main-card-heading{
+        margin: 0;
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    } 
+    .content2, .sect-3 .content2, .sect-2 .content2, .sect-4 .content2{
+        width: 100%;
+        max-width: 600px;
+        margin-top: 1rem;
+    }
+    .img-cont{
+        margin: -10% 0 0 0;
+    }
+    .sect-2 .img-cont{
+        margin: -8% 0 0 0 ;
+    }
+    .sect-3 .img-cont{
+        margin: -5% 0 0 0 ;
+    }
+    .sect-4 .img-cont{
+        margin: 0 auto ;
+    }
+    .main-faq{
+        padding: 50px 0;
+    }
+    .faq-heading{
+        padding: 0 5% 0 5%;
+    }
+    .main-list{
+        margin: 20px auto;
+    }
+    .main-footer-container{
+        padding: 50px 5%;
+    }
+    /* .footer-list{
+        margin: 0;
+    } */
+    .footer-list-item{
+        width: 49%;
+    }
+}
+
+
+
+@media only screen and (min-width: 400px) and (max-width: 500px){
+    .email-1{
+        padding: 5px;
+    }
+    .email-2{
+        height: 42px;
+        min-width: 350px;
+    }
+}
+
+
+
+@media only screen and (min-width: 300px) and (max-width: 400px){
+    .email-1{
+        padding: 5px;
+    }
+    .email-2{
+        height: 42px;
+        min-width: 300px;
+    }
+}
+
+
+
+@media only screen and (min-width: 300px) and (max-width: 400px){
+    .email-1{
+        padding: 5px;
+    }
+    .email-2{
+        height: 42px;
+        min-width: 280px;
+    }
+}
+
+
+
+@media screen and (min-width: 740px){
+    heading-1 {
+        font-size: 38px;
+    }
+}
+
+
+
+@media only screen and (max-width: 950px){
+    .email-input{
+        flex-direction: column;
+        align-items: center;
+    }
+    .submit-button{
+        padding: 0px 16px;
+        margin: 14px 0px;
+        width: 131.93px;
+
+    }
+}
+
+@media only screen and (min-width: 1451px) and (max-width: 2560px){
+    body{
+        background-size:2560px 1000px ;
+    }
+}

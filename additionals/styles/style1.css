@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)),
+        url(background.jpg) no-repeat;
+        background-size: 1519px 748px;
+        object-fit: scale-down;
+}
+
+
+
+/* body{
+    background: linear-gradient(
+        to top, rgba(0,0,0,1.8) ,rgba(0,0,0,0) 56%, rgba(0,0,0,1.8) 100%),
+        url(background.jpg) no-repeat;
+        background-size: 1519px 748px;
+        object-fit: scale-down;
+} */
+
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.navbar{
+    /* border: 2px solid black; */
+    display: flex;
+    margin: 0px 45px;
+    justify-content:flex-start;
+    /* flex-flow: row nowrap; */
+    direction: ltr;
+}
+
+.logo{
+    margin-right: auto;
+    /* margin-right: 1018.81px; */
+}
+
+.netflix-logo{
+    width: 167px;
+    height: 50px; 
+}
+
+.language{
+    display: inline-block;
+    margin-right: 2rem;
+    margin-bottom: 20px;
+
+    font-size: 16px;
+    background: none;
+    color: white;
+    border-radius: 3px;
+    /* justify-items:flex-end; */    
+}
+
+option{
+        background-color:#8c8c8c;
+    }
+
+.sign-button{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+    padding: 7px 17px;
+    border-radius: 3px;
+    line-height: normal;
+    margin: 0px 0px 20px 0px;
+}
+
+
+
+
+
